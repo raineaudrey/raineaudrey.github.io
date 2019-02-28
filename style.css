@@ -1,0 +1,155 @@
+
+    .navbar {
+    z-index: 100;
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    background-color: burlywood;
+    float: left;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+    
+}
+
+body {
+     background-image: url(letter4.jpeg);
+}
+
+.ht1 {
+    top: 70%;
+    left: 650%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    
+    position: absolute;
+    background-color: #D5BF86;
+    color: black;
+    padding: 15px;
+    width: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+
+.ht2 {
+    top: 70%;
+    left: 150%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    position: absolute;
+    background-color: #D5BF86;
+    color: black;
+    padding: 15px;
+    width: 30%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+
+
+
+
+}
+
+
+
+    
+.hl1 {
+    top: 170%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    position: absolute;
+    background-color: #D5BF86;
+    color: black;
+    padding: 15px;
+    width: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+
+.hl3 {
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+      position: absolute;
+    background-color: #D5BF86;
+    color: black;
+    padding: 15px;
+    width: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+  
+.hl2 {
+    top: 170%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+    position: absolute;
+    background-color: #D5BF86;
+    color: black;
+    padding: 15px;
+    width: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    text-align: left;
+}
+
+.site {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 100px;
+    top: 430%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: antiquewhite;
+}
+    .ht {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 100px;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: red;
+}
+
+.hlbg {
+    position: absolute;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    padding: 100px;
+    top: 130%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: antiquewhite;
+}
+
+
+
+    
+  
+    
+
+
+
+
+
+    
+
+
+
